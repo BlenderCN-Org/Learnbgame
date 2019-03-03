@@ -14,3 +14,5 @@ atoms---molecules---species---planets---
 
 # 注意事项:
 目前由于插件中的分子生成部分需要调用openbabel化学python库,所以还需另外安装,日后会进行改进,敬请期待
+
+# 使用obj模型
